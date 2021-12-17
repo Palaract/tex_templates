@@ -1,0 +1,6 @@
+[submodule "tex_templates"]
+	path = tex_templates
+	url = https://github.com/Dragonsight91/tex_templates.git
+[submodule "templates_emma"]
+	path = templates_emma
+	url = https://github.com/Dragonsight91/tex_templates.git
